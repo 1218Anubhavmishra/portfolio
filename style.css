@@ -1,0 +1,14 @@
+h2{text-align: center;}
+/* hr{width:85%; height:2px;} */
+.profile{
+    width:220px; height:160px;
+    display: block; padding-left: 4%; 
+    /* border: 3px solid black ; */
+    margin:0% 4%;
+}
+.aim{padding-inline: 20px; text-align: center;}
+.row{width:95%; padding:10px;}
+section{padding-left: 10%; margin-bottom: 20px;}
+.certificates{padding-left: 10%;}
+.endbar{height:0%;   border: 5px solid rgb(55, 31, 194);
+    border-radius: 5px;}
